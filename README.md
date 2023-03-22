@@ -1,6 +1,6 @@
 # LuckyNumberApp
 
-Kotlin application that generates a random numbe from 1 to 999 and allows you to share it using your name.
+Kotlin application that generates a random number from 1 to 999 and allows you to share it using your name.
 
 ![Home view](https://user-images.githubusercontent.com/69378136/227061333-9675e4d5-4c60-481a-99db-cddc1aa8db7b.png)
 
